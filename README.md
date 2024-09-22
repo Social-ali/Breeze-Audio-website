@@ -6,3 +6,4 @@ Shopping Cart: Add items to the cart and complete purchases.
 User Accounts: Save favorites and manage orders. 
 Customer Reviews: Share feedback on products. 
 Technologies Used: HTML, CSS, JavaScript: For structure, styling, and interactivity. Responsive Design: Utilizes media queries for adaptive layouts.
+
